@@ -1,0 +1,8 @@
+//zulup tut net
+#include <zalups.h>
+#include <mamushatal.h>
+
+main ()
+{
+  print();
+}
